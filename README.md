@@ -49,7 +49,7 @@ I'm a Computer Science student at IUT Blagnac, passionate about:
 
 # Key Projects
 
-## Edt_iut - IUT Blagnac Timetable App
+## BetterEDT - IUT Blagnac Timetable App
 A full web application with React & TypeScript frontend and Express API backend to consult timetables for CS, GIM, INFO, and RT departments. Features include:
 - Department, year, and group filtering
 - Weekly views: 1, 3, or 5 days
