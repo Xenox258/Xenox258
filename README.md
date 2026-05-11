@@ -77,7 +77,7 @@ A React & TypeScript web app for managing home food stock via barcode scanning. 
   <a href="https://github.com/Xenox258">
     <img alt="Téo Brunet's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Xenox258&show_icons=true&theme=radical" />
   </a>
-  
+  [![Xenox258's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xenox258)](https://github.com/Xenox258/github-readme-stats)
   <a href="https://github.com/Xenox258?tab=languages">
     <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenox258&layout=compact&card_width=200&theme=radical&langs_count=8" />
   </a>
