@@ -3,9 +3,9 @@ $ neofetch
 
        ########  ####   xenox258@github
        ########  ####   ----------------
-       ####      ####   OS: GitHub Profile v2026.1
+       ####      ####   OS: Manjaro Linux (Arch-ish btw)
        ####  ##  ####   Host: IUT Blagnac
-       ####  ##  ####   Uptime: 2 years
+       ####  ##  ####   Uptime: 20 years
        ####  ##  ####   Shell: bash 5.2
                         IDE: VS Code + IntelliJ
                         WM: Hyprland
