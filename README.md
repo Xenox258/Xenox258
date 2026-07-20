@@ -40,9 +40,9 @@ Other       [▏░░░░░░░░░░░░░░░░░░░░░�
 $ omp models
 
 ACTIVE
-* openai-codex/gpt-5.6-sol       default, task, advisor
+* openai-codex/gpt-5.6-sol       default, task
 * deepseek/deepseek-v4-pro       plan, smol, slow
-* anthropic/claude-fable-5       vision, designer
+* anthropic/claude-fable-5       vision, designer, advisor
 
 HISTORY
   anthropic/claude-opus-4-8
