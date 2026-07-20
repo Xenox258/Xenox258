@@ -1,19 +1,4 @@
-<table style="width:100%; max-width:900px; border-collapse:collapse; background:#0d1117; color:#c9d1d9; font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace; font-size:13px; border:1px solid #30363d;">
-
-<!-- ====== TITLE BAR ====== -->
-<tr>
-<td style="background:#161b22; padding:8px 14px; border-bottom:1px solid #30363d;">
-<span style="color:#f85149; font-size:14px;">●</span>
-<span style="color:#d29922; font-size:14px; margin-left:4px;">●</span>
-<span style="color:#56d364; font-size:14px; margin-left:4px;">●</span>
-<span style="color:#8b949e; margin-left:12px;">xenox258@github:~ — bash</span>
-</td>
-</tr>
-
-<!-- ====== CONTENT ====== -->
-<tr>
-<td style="padding:16px 20px;">
-
+<p><code><strong>xenox258@github</strong>:~$ neofetch</code></p>
 <!-- ====== NEOFETCH ====== -->
 <pre style="color:#c9d1d9; background:transparent; border:none; margin:0 0 16px 0; line-height:1.5; font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;">
         <span style="color:#56d364;">.---.</span>           <span style="color:#56d364;">xenox258</span>@github
@@ -48,89 +33,17 @@
 <span style="color:#56d364;">$</span> github-stats <span style="color:#8b949e;">--lang</span>
 </p>
 
-<table style="width:100%; border-collapse:collapse; border:none; margin:0 0 20px 0;">
-<tr>
-<td style="width:95px; color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">Python</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#3572A5; width:42.3%; padding:0; text-align:right;" width="42.3%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">42.3%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">TypeScript</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#3178c6; width:18.7%; padding:0;" width="18.7%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">18.7%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">Rust</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#dea584; width:8.2%; padding:0;" width="8.2%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">8.2%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">Kotlin</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#7f52ff; width:6.1%; padding:0;" width="6.1%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">6.1%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">Java</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#b07219; width:5.4%; padding:0;" width="5.4%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">5.4%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">JavaScript</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#f7df1e; width:4.8%; padding:0;" width="4.8%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">4.8%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">CSS</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#563d7c; width:3.5%; padding:0;" width="3.5%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">3.5%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">HTML</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#e34c26; width:2.1%; padding:0;" width="2.1%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">2.1%</td>
-</tr></table>
-</td>
-</tr>
-<tr>
-<td style="color:#c9d1d9; text-align:right; padding:2px 10px 2px 0; vertical-align:middle; white-space:nowrap;">Other</td>
-<td style="padding:2px 0; vertical-align:middle;">
-<table style="width:100%; border-collapse:collapse; border:none; background:#21262d; height:18px;"><tr>
-<td style="background:#8b949e; width:8.9%; padding:0;" width="8.9%"></td>
-<td style="padding:0 6px; color:#8b949e; font-size:11px; white-space:nowrap;">8.9%</td>
-</tr></table>
-</td>
-</tr>
-</table>
+<pre style="background:transparent; border:none; margin:0 0 20px 0; line-height:1.7; font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;">
+Python      <span style="color:#3572A5;">█████████████████</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░</span> 42.3%
+TypeScript  <span style="color:#3178c6;">███████</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span> 18.7%
+Rust        <span style="color:#dea584;">███</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  8.2%
+Kotlin      <span style="color:#7f52ff;">██</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  6.1%
+Java        <span style="color:#b07219;">██</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  5.4%
+JavaScript  <span style="color:#f7df1e;">██</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  4.8%
+CSS         <span style="color:#563d7c;">█</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  3.5%
+HTML        <span style="color:#e34c26;">█</span><span style="color:#8b949e;">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  2.1%
+Other       <span style="color:#8b949e;">████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  8.9%
+</pre>
 
 <!-- ====== FOOTER ====== -->
 <p style="color:#c9d1d9; margin:24px 0 4px 0;">
@@ -157,20 +70,13 @@ Téo Brunet — CS Student @ IUT Blagnac
 <!-- ====== DIVIDER ====== -->
 <p style="color:#30363d; margin:24px 0 16px 0; text-align:center;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<!-- ====== STATS CARDS ====== -->
-<p style="color:#c9d1d9; margin:0 0 12px 0;">
-<span style="color:#56d364;">$</span> curl <span style="color:#8b949e;">-s</span> https://github-readme-stats <span style="color:#8b949e;">| jq</span>
+<!-- ====== GITHUB STATS ====== -->
+<p style="margin:0 0 12px 0;">
+<span style="color:#56d364;">$</span> curl <span style="color:#8b949e;">-s</span> https://github-stats-extended.vercel.app/api?username=Xenox258
 </p>
 
 <p align="center" style="margin:0;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Xenox258&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=58a6ff&ring_color=56d364" alt="GitHub Stats" width="48%" style="max-width:400px;" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenox258&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=56d364&text_color=c9d1d9" alt="Top Languages" width="40%" style="max-width:330px;" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+<img src="https://github-stats-extended.vercel.app/api?username=Xenox258" alt="Xenox258's GitHub stats" />
 </a>
 </p>
-
-</td>
-</tr>
-</table>
